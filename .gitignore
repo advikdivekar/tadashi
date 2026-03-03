@@ -1,0 +1,5 @@
+# Tadashi Secrets - DO NOT REMOVE
+.env
+*.pem
+private_key.pem
+__pycache__/
